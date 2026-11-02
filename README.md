@@ -2,7 +2,7 @@
 
 Machine-learning web app that estimates heart disease risk (Low / Medium / High) from routine clinical values, and explains each result with SHAP.
 
-**Live app:** <apna Streamlit link yahan daalo>
+**Live app:** <https://hd-cardiopredict-vqdfxlxqtzrftwf6n4yk2b.streamlit.app/>
 
 ## Features
 - Random Forest model trained on the UCI Heart Disease (Cleveland) dataset
@@ -22,3 +22,5 @@ The model without the thalassemia attribute reached an accuracy of 0.833.
 The test set is small (one patient is about 1.7 percentage points), so differences between models should not be over-interpreted.
 
 ## Run locally
+
+
